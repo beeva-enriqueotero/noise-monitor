@@ -5,4 +5,4 @@ MVP for Noise Monitoring
 https://pypi.python.org/pypi/soundmeter
 
 ### Launch
-```soundmeter --trigger +1100 10 --action exec --exec caller.sh```
+```soundmeter --trigger +1100 10 --action exec --exec mycaller.sh```
