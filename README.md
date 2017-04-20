@@ -5,7 +5,7 @@ MVP for Noise Monitoring
 https://pypi.python.org/pypi/soundmeter
 
 ### Launch
-```soundmeter --trigger +1100 10 --action exec --exec mycaller.sh```
+```soundmeter --trigger +2000 10 --action exec --exec mycaller.sh```
 
 ### Issues and future work
 * Synchronous (blocking) triggers. 
