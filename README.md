@@ -12,3 +12,4 @@ https://pypi.python.org/pypi/soundmeter
   * *Workaround: a caller function checks if trigger is running*
 * Automatic audio calibration
 * Remote (cloud) storage of audio files
+* Multiple recording points
