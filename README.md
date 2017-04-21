@@ -13,3 +13,4 @@ https://pypi.python.org/pypi/soundmeter
 * Automatic audio calibration
 * Remote (cloud) storage of audio files
 * Multiple recording points
+* Automatic speaker recognition
