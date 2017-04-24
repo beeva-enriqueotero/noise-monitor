@@ -13,4 +13,8 @@ https://pypi.python.org/pypi/soundmeter
 * Automatic audio calibration
 * Remote (cloud) storage of audio files
 * Multiple recording points
-* Automatic speaker recognition
+* Automatic speaker identification
+  * [MS-Cognitive Speaker Recognition API](https://docs.microsoft.com/es-es/azure/cognitive-services/Speaker-recognition/Home)
+  * [State of the art. Deep Learning paper](http://www.cs.tau.ac.il/~wolf/papers/simpsons.pdf)
+  * [SPEAR: A Speaker Recognition Toolkit based on Bob](https://pythonhosted.org/bob.bio.spear/)
+  
